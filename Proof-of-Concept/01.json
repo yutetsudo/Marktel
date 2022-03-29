@@ -1,0 +1,1100 @@
+{
+  "thumbnail": "data:image/png;base64,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",
+  "tree": [
+    {
+      "id": "j1_119",
+      "text": "Main",
+      "icon": "./icon/miicons.svg#content-group",
+      "li_attr": { "id": "j1_119" },
+      "a_attr": { "href": "#", "id": "j1_119_anchor" },
+      "state": {
+        "loaded": true,
+        "opened": true,
+        "selected": false,
+        "disabled": false
+      },
+      "data": {},
+      "children": [
+        {
+          "id": "j1_27",
+          "text": "Clear status row",
+          "icon": "./icon/miicons.svg#clear-status",
+          "li_attr": { "id": "j1_27" },
+          "a_attr": { "href": "#", "id": "j1_27_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "clear-status"
+        },
+        {
+          "id": "j1_1",
+          "text": "Clear screen",
+          "icon": "./icon/miicons.svg#clear-screen",
+          "li_attr": { "id": "j1_1" },
+          "a_attr": { "href": "#", "id": "j1_1_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "clear-screen"
+        },
+        {
+          "id": "j1_5",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_5" },
+          "a_attr": { "href": "#", "id": "j1_5_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=0&y=0" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_6",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_6" },
+          "a_attr": { "href": "#", "id": "j1_6_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": true,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=Marktel+-+Proof+of+concept.mt" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_8",
+          "text": "Box",
+          "icon": "./icon/miicons.svg#content-box",
+          "li_attr": { "id": "j1_8" },
+          "a_attr": { "href": "#", "id": "j1_8_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=0&y=1&width=40&height=22&bgcolor=7" },
+          "children": [],
+          "type": "content-box"
+        },
+        {
+          "id": "j1_109",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_109" },
+          "a_attr": { "href": "#", "id": "j1_109_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=0&y=23" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_116",
+          "text": "Move cursor on the left",
+          "icon": "./icon/miicons.svg#move-left",
+          "li_attr": { "id": "j1_116" },
+          "a_attr": { "href": "#", "id": "j1_116_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "move-left"
+        },
+        {
+          "id": "j1_118",
+          "text": "Invert on",
+          "icon": "./icon/miicons.svg#effect-invert-on",
+          "li_attr": { "id": "j1_118" },
+          "a_attr": { "href": "#", "id": "j1_118_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "effect-invert-on"
+        },
+        {
+          "id": "j1_110",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_110" },
+          "a_attr": { "href": "#", "id": "j1_110_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {
+            "miedit-value": "value=_________________________________________"
+          },
+          "children": [],
+          "type": "content-string"
+        }
+      ],
+      "type": "content-group"
+    },
+    {
+      "id": "j1_7",
+      "text": "Body",
+      "icon": "./icon/miicons.svg#content-group",
+      "li_attr": { "id": "j1_7" },
+      "a_attr": { "href": "#", "id": "j1_7_anchor" },
+      "state": {
+        "loaded": true,
+        "opened": false,
+        "selected": false,
+        "disabled": false
+      },
+      "data": { "miedit-value": "offsetX=1&offsetY=2" },
+      "children": [
+        {
+          "id": "j1_9",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_9" },
+          "a_attr": { "href": "#", "id": "j1_9_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=0&y=0" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_13",
+          "text": "Set foreground color to black",
+          "icon": "./icon/miicons.svg#color-fg-0",
+          "li_attr": { "id": "j1_13" },
+          "a_attr": { "href": "#", "id": "j1_13_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "color-fg-0"
+        },
+        {
+          "id": "j1_12",
+          "text": "Set double size",
+          "icon": "./icon/miicons.svg#effect-double-size",
+          "li_attr": { "id": "j1_12" },
+          "a_attr": { "href": "#", "id": "j1_12_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "effect-double-size"
+        },
+        {
+          "id": "j1_11",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_11" },
+          "a_attr": { "href": "#", "id": "j1_11_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=Marktel+Example" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_14",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_14" },
+          "a_attr": { "href": "#", "id": "j1_14_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=0&y=1" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_15",
+          "text": "Set foreground color to black",
+          "icon": "./icon/miicons.svg#color-fg-0",
+          "li_attr": { "id": "j1_15" },
+          "a_attr": { "href": "#", "id": "j1_15_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "color-fg-0"
+        },
+        {
+          "id": "j1_17",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_17" },
+          "a_attr": { "href": "#", "id": "j1_17_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=This+is+a+proof+of+concept+of+" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_44",
+          "text": "Set foreground color to red",
+          "icon": "./icon/miicons.svg#color-fg-1",
+          "li_attr": { "id": "j1_44" },
+          "a_attr": { "href": "#", "id": "j1_44_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "color-fg-1"
+        },
+        {
+          "id": "j1_38",
+          "text": "Invert on",
+          "icon": "./icon/miicons.svg#effect-invert-on",
+          "li_attr": { "id": "j1_38" },
+          "a_attr": { "href": "#", "id": "j1_38_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "effect-invert-on"
+        },
+        {
+          "id": "j1_21",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_21" },
+          "a_attr": { "href": "#", "id": "j1_21_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=Marktel" },
+          "children": [],
+          "type": "content-string"
+        }
+      ],
+      "type": "content-group"
+    },
+    {
+      "id": "j1_22",
+      "text": "Heading",
+      "icon": "./icon/miicons.svg#content-group",
+      "li_attr": { "id": "j1_22" },
+      "a_attr": { "href": "#", "id": "j1_22_anchor" },
+      "state": {
+        "loaded": true,
+        "opened": false,
+        "selected": false,
+        "disabled": false
+      },
+      "data": { "miedit-value": "offsetX=1&offsetY=5" },
+      "children": [
+        {
+          "id": "j1_23",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_23" },
+          "a_attr": { "href": "#", "id": "j1_23_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=0&y=0" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_24",
+          "text": "Set foreground color to black",
+          "icon": "./icon/miicons.svg#color-fg-0",
+          "li_attr": { "id": "j1_24" },
+          "a_attr": { "href": "#", "id": "j1_24_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "color-fg-0"
+        },
+        {
+          "id": "j1_25",
+          "text": "Set double width",
+          "icon": "./icon/miicons.svg#effect-double-width",
+          "li_attr": { "id": "j1_25" },
+          "a_attr": { "href": "#", "id": "j1_25_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "effect-double-width"
+        },
+        {
+          "id": "j1_26",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_26" },
+          "a_attr": { "href": "#", "id": "j1_26_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=1.+Headings" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_29",
+          "text": "Box",
+          "icon": "./icon/miicons.svg#content-box",
+          "li_attr": { "id": "j1_29" },
+          "a_attr": { "href": "#", "id": "j1_29_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=0&y=2&width=38&height=4&bgcolor=1" },
+          "children": [],
+          "type": "content-box"
+        },
+        {
+          "id": "j1_31",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_31" },
+          "a_attr": { "href": "#", "id": "j1_31_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=1&y=2" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_33",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_33" },
+          "a_attr": { "href": "#", "id": "j1_33_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=%23++Double+Size" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_54",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_54" },
+          "a_attr": { "href": "#", "id": "j1_54_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=1&y=3" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_49",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_49" },
+          "a_attr": { "href": "#", "id": "j1_49_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=%23W+Double+Width" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_55",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_55" },
+          "a_attr": { "href": "#", "id": "j1_55_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=1&y=4" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_51",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_51" },
+          "a_attr": { "href": "#", "id": "j1_51_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=%23H+Doubke+Height" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_56",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_56" },
+          "a_attr": { "href": "#", "id": "j1_56_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=1&y=5" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_53",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_53" },
+          "a_attr": { "href": "#", "id": "j1_53_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=+++Normal+Size" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_57",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_57" },
+          "a_attr": { "href": "#", "id": "j1_57_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=0&y=7" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_58",
+          "text": "Set foreground color to black",
+          "icon": "./icon/miicons.svg#color-fg-0",
+          "li_attr": { "id": "j1_58" },
+          "a_attr": { "href": "#", "id": "j1_58_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "color-fg-0"
+        },
+        {
+          "id": "j1_59",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_59" },
+          "a_attr": { "href": "#", "id": "j1_59_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=Render+to+%3A" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_60",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_60" },
+          "a_attr": { "href": "#", "id": "j1_60_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=0&y=10" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_61",
+          "text": "Set foreground color to black",
+          "icon": "./icon/miicons.svg#color-fg-0",
+          "li_attr": { "id": "j1_61" },
+          "a_attr": { "href": "#", "id": "j1_61_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "color-fg-0"
+        },
+        {
+          "id": "j1_62",
+          "text": "Set double size",
+          "icon": "./icon/miicons.svg#effect-double-size",
+          "li_attr": { "id": "j1_62" },
+          "a_attr": { "href": "#", "id": "j1_62_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "effect-double-size"
+        },
+        {
+          "id": "j1_63",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_63" },
+          "a_attr": { "href": "#", "id": "j1_63_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=Double+Size" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_64",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_64" },
+          "a_attr": { "href": "#", "id": "j1_64_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=0&y=11" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_65",
+          "text": "Set foreground color to black",
+          "icon": "./icon/miicons.svg#color-fg-0",
+          "li_attr": { "id": "j1_65" },
+          "a_attr": { "href": "#", "id": "j1_65_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "color-fg-0"
+        },
+        {
+          "id": "j1_66",
+          "text": "Set double width",
+          "icon": "./icon/miicons.svg#effect-double-width",
+          "li_attr": { "id": "j1_66" },
+          "a_attr": { "href": "#", "id": "j1_66_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "effect-double-width"
+        },
+        {
+          "id": "j1_67",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_67" },
+          "a_attr": { "href": "#", "id": "j1_67_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=Double+Width" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_68",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_68" },
+          "a_attr": { "href": "#", "id": "j1_68_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=0&y=13" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_69",
+          "text": "Set foreground color to black",
+          "icon": "./icon/miicons.svg#color-fg-0",
+          "li_attr": { "id": "j1_69" },
+          "a_attr": { "href": "#", "id": "j1_69_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "color-fg-0"
+        },
+        {
+          "id": "j1_70",
+          "text": "Set double height",
+          "icon": "./icon/miicons.svg#effect-double-height",
+          "li_attr": { "id": "j1_70" },
+          "a_attr": { "href": "#", "id": "j1_70_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "effect-double-height"
+        },
+        {
+          "id": "j1_71",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_71" },
+          "a_attr": { "href": "#", "id": "j1_71_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=Doubke+Height" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_72",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_72" },
+          "a_attr": { "href": "#", "id": "j1_72_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=0&y=14" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_73",
+          "text": "Set foreground color to black",
+          "icon": "./icon/miicons.svg#color-fg-0",
+          "li_attr": { "id": "j1_73" },
+          "a_attr": { "href": "#", "id": "j1_73_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "color-fg-0"
+        },
+        {
+          "id": "j1_74",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_74" },
+          "a_attr": { "href": "#", "id": "j1_74_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=Normal+Size" },
+          "children": [],
+          "type": "content-string"
+        }
+      ],
+      "type": "content-group"
+    },
+    {
+      "id": "j1_75",
+      "text": "Paragraphs",
+      "icon": "./icon/miicons.svg#content-group",
+      "li_attr": { "id": "j1_75" },
+      "a_attr": { "href": "#", "id": "j1_75_anchor" },
+      "state": {
+        "loaded": true,
+        "opened": false,
+        "selected": false,
+        "disabled": false
+      },
+      "data": { "miedit-value": "offsetX=1&offsetY=21" },
+      "children": [
+        {
+          "id": "j1_76",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_76" },
+          "a_attr": { "href": "#", "id": "j1_76_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=0&y=0" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_77",
+          "text": "Set foreground color to black",
+          "icon": "./icon/miicons.svg#color-fg-0",
+          "li_attr": { "id": "j1_77" },
+          "a_attr": { "href": "#", "id": "j1_77_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "color-fg-0"
+        },
+        {
+          "id": "j1_79",
+          "text": "Set double width",
+          "icon": "./icon/miicons.svg#effect-double-width",
+          "li_attr": { "id": "j1_79" },
+          "a_attr": { "href": "#", "id": "j1_79_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "effect-double-width"
+        },
+        {
+          "id": "j1_78",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_78" },
+          "a_attr": { "href": "#", "id": "j1_78_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=2.+Paragraphs" },
+          "children": [],
+          "type": "content-string"
+        }
+      ],
+      "type": "content-group"
+    },
+    {
+      "id": "j1_83",
+      "text": "Footer",
+      "icon": "./icon/miicons.svg#content-group",
+      "li_attr": { "id": "j1_83" },
+      "a_attr": { "href": "#", "id": "j1_83_anchor" },
+      "state": {
+        "loaded": true,
+        "opened": false,
+        "selected": false,
+        "disabled": false
+      },
+      "data": { "miedit-value": "offsetX=1&offsetY=24" },
+      "children": [
+        {
+          "id": "j1_84",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_84" },
+          "a_attr": { "href": "#", "id": "j1_84_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=15&y=0" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_86",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_86" },
+          "a_attr": { "href": "#", "id": "j1_86_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=01%2F00" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_87",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_87" },
+          "a_attr": { "href": "#", "id": "j1_87_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=30&y=0" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_96",
+          "text": "Move cursor on the left",
+          "icon": "./icon/miicons.svg#move-left",
+          "li_attr": { "id": "j1_96" },
+          "a_attr": { "href": "#", "id": "j1_96_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "move-left"
+        },
+        {
+          "id": "j1_105",
+          "text": "Set foreground color to red",
+          "icon": "./icon/miicons.svg#color-fg-1",
+          "li_attr": { "id": "j1_105" },
+          "a_attr": { "href": "#", "id": "j1_105_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "color-fg-1"
+        },
+        {
+          "id": "j1_91",
+          "text": "Underline on",
+          "icon": "./icon/miicons.svg#effect-underline-on",
+          "li_attr": { "id": "j1_91" },
+          "a_attr": { "href": "#", "id": "j1_91_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "effect-underline-on"
+        },
+        {
+          "id": "j1_98",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_98" },
+          "a_attr": { "href": "#", "id": "j1_98_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=+" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_89",
+          "text": "Invert on",
+          "icon": "./icon/miicons.svg#effect-invert-on",
+          "li_attr": { "id": "j1_89" },
+          "a_attr": { "href": "#", "id": "j1_89_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "effect-invert-on"
+        },
+        {
+          "id": "j1_90",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_90" },
+          "a_attr": { "href": "#", "id": "j1_90_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=+Suite+%E2%86%92" },
+          "children": [],
+          "type": "content-string"
+        }
+      ],
+      "type": "content-group"
+    }
+  ]
+}

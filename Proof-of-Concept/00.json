@@ -1,0 +1,441 @@
+{
+  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAAD6CAYAAADQtp4NAAAMt0lEQVR4Xu3a4Vbj6BEE0OH9H5rAJN7VKLb6s8rGU3BzTn5kRcul21JZsHn79evX+8d//YcAAQJ1Au/vx/X19vZ2eE2fRz/O8f5r+4P7//0Ilemc0/EpwwViuuDpPGeO75fwigyfuZ9t8Ozzn7H/qpn0/pxyPvv80+e3Hr92T26fx+lZ/KcAPwE+f/hZN/m04On4yoIecY6Vz9n/zFd8gUy5thme4fDs80/X9+rjzzDdXtOzz/9qv2d9/sVtX3qrPfbHG+D2ZPvm3J7w1gN/9KHTAzS19nT88gY0Nf4zFjEV4H5J1zJO17dyPLn2v+H8l91cu/emL+eV/Efn394XZ/ZzdF8dPTuXuSn/M+7b73DOawU47fKP4//9zen4V+B9eV3eFvfLu9w4177Njsp1Kq8p3zZHUgJnb4jtzbu3uVzb9p9P13Pm+K2He+WaVj7vkee/9w16/8U65T1z/ulPQMkb2v7eP3o+VvblZ/4V+PICvFZWKzfH0dvhSgHul37rW/psAU4lNn3DH33u5DM90NPxyW96YL76/I8uqBXfo/vnq67/6CVguoZphz/1+JcX4LUiW1neI98Aby17JcczbpTpc+89Pj2Qj36DmD7v0QX7igK85wvqWb4K8PFP37UCnP5csk2x/G+Bt8W38sAc3eS3CuHoLXH7hvbov9Gka7m34K59Xnp9U4bpGlc+/+zb9fbPANf+RDAdX7nfVvLf+jV+O3sr3zbjvb997IvvzP0/7e+nHr/1QnZr1//3m8DHP/D/A/ypd4/r/i2QfnlgfJ3A/svr6E8d11L+fgN8XXyfTOD1Agrw9Ts4myAuwI8TKMCz+uYIEKgWeFOA1fsTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFlCA3fuTngCBQEABBnhGCRDoFnj7iP/efQnSEyBA4JzAWIDa8Rj2E9B/rgu8v7//ensj9Mr746c/v9Pd9yUFuA9xZilj0BfdZRPwi2Kd+tipsKbj2w+99rPT/HT81EX98KHVZ217H6/O7GmPntFXPb/T8znm2mKMP3zjZtvPnTnPmZmvuPcn4K/I8IjPuJTPrRKaju8z7M8zzU/HH3GNP/EcK2X2iOdzsv2K5/faZ0zP55jrAjj+4IHACvD0DZQcnz7/cvzyGSs3zeVyJ+Dpxvgbjt8qq0u26fhq+a2ez5vg4+6KlXt5eran5+cz7fTsJM/vPRrXsh7NT9f++9+QHD3kq8B//Hq0S7QKfOuzpvmV45+RzpS9AvxzmSu/+k6FqgDveeSPf3bl+dwW2PY52H7Jr/wmeFQm9xwbS2lzybeev+2zHBfgBWgVc/+B2zesa+e4dhH7n0sAVwowubbH3a6vOdO9hTT9mvzoN8LXqHyPTz1zX599Xu55Rre6K8//6jae8gZ465vgTKhrSCuNfw/u0QKvvaqvfP6ta/0Ob4C/v/X/929sp3Kbjt9ySs+/eq/5ud0b+QLIPYV39KvuPc/ovgDPFPWtF62pXO/67GcEu1WCl2BHv+pee0WfXuG3xy+/0q+80i/cO4d/HliZ/5t+ZvrV8+j4NLst2akk/yaT9iyrz+/q3+iuPT8rz9/+GbxWXtPzf2YX0wvK+PKzCngm3HeYmYC/wzVO17BSftM5HH+OwE9/fqfncyzA56zFWb+LgPL7Lpv8mdfxH1vIRLv1l47XAAAAAElFTkSuQmCC",
+  "tree": [
+    {
+      "id": "j1_119",
+      "text": "Main",
+      "icon": "./icon/miicons.svg#content-group",
+      "li_attr": { "id": "j1_119" },
+      "a_attr": { "href": "#", "id": "j1_119_anchor" },
+      "state": {
+        "loaded": true,
+        "opened": false,
+        "selected": false,
+        "disabled": false
+      },
+      "data": {},
+      "children": [
+        {
+          "id": "j1_27",
+          "text": "Clear status row",
+          "icon": "./icon/miicons.svg#clear-status",
+          "li_attr": { "id": "j1_27" },
+          "a_attr": { "href": "#", "id": "j1_27_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "clear-status"
+        },
+        {
+          "id": "j1_1",
+          "text": "Clear screen",
+          "icon": "./icon/miicons.svg#clear-screen",
+          "li_attr": { "id": "j1_1" },
+          "a_attr": { "href": "#", "id": "j1_1_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "clear-screen"
+        },
+        {
+          "id": "j1_5",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_5" },
+          "a_attr": { "href": "#", "id": "j1_5_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=0&y=0" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_6",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_6" },
+          "a_attr": { "href": "#", "id": "j1_6_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": true,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=Marktel+-+Proof+of+concept.mt" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_8",
+          "text": "Box",
+          "icon": "./icon/miicons.svg#content-box",
+          "li_attr": { "id": "j1_8" },
+          "a_attr": { "href": "#", "id": "j1_8_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=0&y=1&width=40&height=22&bgcolor=7" },
+          "children": [],
+          "type": "content-box"
+        },
+        {
+          "id": "j1_109",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_109" },
+          "a_attr": { "href": "#", "id": "j1_109_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=0&y=23" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_116",
+          "text": "Move cursor on the left",
+          "icon": "./icon/miicons.svg#move-left",
+          "li_attr": { "id": "j1_116" },
+          "a_attr": { "href": "#", "id": "j1_116_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "move-left"
+        },
+        {
+          "id": "j1_118",
+          "text": "Invert on",
+          "icon": "./icon/miicons.svg#effect-invert-on",
+          "li_attr": { "id": "j1_118" },
+          "a_attr": { "href": "#", "id": "j1_118_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "effect-invert-on"
+        },
+        {
+          "id": "j1_110",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_110" },
+          "a_attr": { "href": "#", "id": "j1_110_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {
+            "miedit-value": "value=_________________________________________"
+          },
+          "children": [],
+          "type": "content-string"
+        }
+      ],
+      "type": "content-group"
+    },
+    {
+      "id": "j1_83",
+      "text": "Footer",
+      "icon": "./icon/miicons.svg#content-group",
+      "li_attr": { "id": "j1_83" },
+      "a_attr": { "href": "#", "id": "j1_83_anchor" },
+      "state": {
+        "loaded": true,
+        "opened": false,
+        "selected": false,
+        "disabled": false
+      },
+      "data": { "miedit-value": "offsetX=1&offsetY=24" },
+      "children": [
+        {
+          "id": "j2_69",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j2_69" },
+          "a_attr": { "href": "#", "id": "j2_69_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=0&y=0" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j2_70",
+          "text": "Move cursor on the left",
+          "icon": "./icon/miicons.svg#move-left",
+          "li_attr": { "id": "j2_70" },
+          "a_attr": { "href": "#", "id": "j2_70_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "move-left"
+        },
+        {
+          "id": "j2_71",
+          "text": "Set foreground color to red",
+          "icon": "./icon/miicons.svg#color-fg-1",
+          "li_attr": { "id": "j2_71" },
+          "a_attr": { "href": "#", "id": "j2_71_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "color-fg-1"
+        },
+        {
+          "id": "j2_72",
+          "text": "Underline on",
+          "icon": "./icon/miicons.svg#effect-underline-on",
+          "li_attr": { "id": "j2_72" },
+          "a_attr": { "href": "#", "id": "j2_72_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "effect-underline-on"
+        },
+        {
+          "id": "j2_73",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j2_73" },
+          "a_attr": { "href": "#", "id": "j2_73_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=+" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j2_74",
+          "text": "Invert on",
+          "icon": "./icon/miicons.svg#effect-invert-on",
+          "li_attr": { "id": "j2_74" },
+          "a_attr": { "href": "#", "id": "j2_74_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "effect-invert-on"
+        },
+        {
+          "id": "j2_75",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j2_75" },
+          "a_attr": { "href": "#", "id": "j2_75_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=%E2%86%90+Retour+" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_84",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_84" },
+          "a_attr": { "href": "#", "id": "j1_84_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=15&y=0" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_86",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_86" },
+          "a_attr": { "href": "#", "id": "j1_86_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=00%2F00" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_87",
+          "text": "Move cursor to an absolute position",
+          "icon": "./icon/miicons.svg#move-locate",
+          "li_attr": { "id": "j1_87" },
+          "a_attr": { "href": "#", "id": "j1_87_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "x=30&y=0" },
+          "children": [],
+          "type": "move-locate"
+        },
+        {
+          "id": "j1_96",
+          "text": "Move cursor on the left",
+          "icon": "./icon/miicons.svg#move-left",
+          "li_attr": { "id": "j1_96" },
+          "a_attr": { "href": "#", "id": "j1_96_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "move-left"
+        },
+        {
+          "id": "j1_105",
+          "text": "Set foreground color to red",
+          "icon": "./icon/miicons.svg#color-fg-1",
+          "li_attr": { "id": "j1_105" },
+          "a_attr": { "href": "#", "id": "j1_105_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "color-fg-1"
+        },
+        {
+          "id": "j1_91",
+          "text": "Underline on",
+          "icon": "./icon/miicons.svg#effect-underline-on",
+          "li_attr": { "id": "j1_91" },
+          "a_attr": { "href": "#", "id": "j1_91_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "effect-underline-on"
+        },
+        {
+          "id": "j1_98",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_98" },
+          "a_attr": { "href": "#", "id": "j1_98_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=+" },
+          "children": [],
+          "type": "content-string"
+        },
+        {
+          "id": "j1_89",
+          "text": "Invert on",
+          "icon": "./icon/miicons.svg#effect-invert-on",
+          "li_attr": { "id": "j1_89" },
+          "a_attr": { "href": "#", "id": "j1_89_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": {},
+          "children": [],
+          "type": "effect-invert-on"
+        },
+        {
+          "id": "j1_90",
+          "text": "String",
+          "icon": "./icon/miicons.svg#content-string",
+          "li_attr": { "id": "j1_90" },
+          "a_attr": { "href": "#", "id": "j1_90_anchor" },
+          "state": {
+            "loaded": true,
+            "opened": false,
+            "selected": false,
+            "disabled": false
+          },
+          "data": { "miedit-value": "value=+Suite+%E2%86%92" },
+          "children": [],
+          "type": "content-string"
+        }
+      ],
+      "type": "content-group"
+    }
+  ]
+}
